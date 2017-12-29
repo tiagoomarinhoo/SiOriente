@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+
+    font-size: 100px;
+    font-family: 'Lekton', sans-serif;
+    
+}
+
+p{
+
+    font-family: 'Lekton', sans-serif;
+
+}
+
+
+
+
+.carousel-caption{
+
+    cursor: pointer;
+    font-family: 'Lekton', sans-serif;
+    background-color: black;
+    padding: 60px;
+    margin: 2px;
+    opacity:.9;    
+
+}
